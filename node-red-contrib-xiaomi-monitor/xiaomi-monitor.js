@@ -1,4 +1,4 @@
-module.exports = function(RED) { //S5 dev
+module.exports = function(RED) { //S6
     function XiaomiMonitorNode(config) {
         RED.nodes.createNode(this,config);
         var node = this;
