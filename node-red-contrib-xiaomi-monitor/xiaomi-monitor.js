@@ -91,6 +91,7 @@ module.exports = function(RED) { //S6
             var cmd = msg.payload.cmd;
             var data = msg.payload.data;
             var sid = msg.payload.sid;
+            debugger
             if(device.hasOwnProperty(sid)){
                 if(cmd=="heartbeat"){
                     device[sid].starttimerhb();
