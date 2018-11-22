@@ -38,7 +38,8 @@
       "xiaomi-configurator": "node-red-contrib-xiaomi-configurator/xiaomi-configurator.js",
       "xiaomi-gateway": "node-red-contrib-xiaomi-gateway/xiaomi-gateway.js",
       "xiaomi-actions": "node-red-contrib-xiaomi-actions/xiaomi-actions.js",
-      "xiaomi-yeelight": "dist/nodes/yeelight/index.js"
+      "xiaomi-yeelight": "dist/nodes/yeelight/index.js",
+      "xiaomi-monitor": "node-red-contrib-xiaomi-monitor/xiaomi-monitor.js"
     }
   },
   "author": "Pierre CLEMENT",
